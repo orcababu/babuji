@@ -1,10 +1,17 @@
+
 #include<stdio.h>
+
 int main(void)
+
 {
-	int a,b;
-	a=4,b=5;
+	int a;
+	
+	int b;
+	
 	int c;
 	
+	a=4,b=5;
+		
 	printf("Befor sorting:\na = %i, b = %i\n",a,b);
 	
 	c=a;
